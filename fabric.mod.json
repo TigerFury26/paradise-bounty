@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "paradise-bounty",
+	"version": "1.0.0",
+	"name": "Paradise Bounty",
+	"description": "A fun little mod that adds more end game stuff to Paradise Lost! Later on in a modded world, you lose the surtrum and glazed gold tools, so this mod gives you a reason to come back and do more! Very small project, please support the original devs :3",
+	"authors": [
+		"TigerFury26 (Jaiden)"
+	],
+	"contact": {
+		"homepage": "wip"
+	},
+	"license": "MIT",
+	"icon": "assets/paradise_bounty/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"jai.paradisebounty.ParadiseBounty"
+		]
+	},
+	"mixins": [
+      "paradise_bounty.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"paradise_lost": "*"
+	}
+}

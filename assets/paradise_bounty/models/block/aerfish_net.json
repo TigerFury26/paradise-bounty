@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "paradise_bounty:block/aerfish_net"
+  }
+}

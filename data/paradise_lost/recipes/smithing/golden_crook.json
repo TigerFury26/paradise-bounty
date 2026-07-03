@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:enchanted_golden_apple"
+  },
+  "base": {
+    "item": "paradise_lost:glazed_gold_hoe"
+  },
+  "result": {
+    "item": "paradise_bounty:golden_crook"
+  },
+  "template": {
+    "item": "paradise_lost:glazed_gold_upgrade_smithing_template"
+  }
+}

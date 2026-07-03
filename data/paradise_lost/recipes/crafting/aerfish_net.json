@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "paradise_lost:amadrys_bushel"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "-": {
+      "item": "paradise_lost:flax_thread"
+    }
+  },
+  "pattern": [
+    "X-X",
+    "-#-",
+    "X-X"
+  ],
+  "result": {
+    "count": 1,
+    "item": "paradise_bounty:aerfish_net"
+  },
+  "show_notification": true
+}

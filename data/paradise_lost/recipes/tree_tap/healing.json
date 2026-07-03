@@ -1,0 +1,12 @@
+{
+  "type": "paradise_lost:tree_tap",
+  "ingredient": {
+    "item": "minecraft:honey_bottle"
+  },
+  "tapped_block": "paradise_lost:mother_aurel_log",
+  "result_block": "paradise_lost:mother_aurel_log",
+  "result": {
+    "item": "paradise_bounty:golden_honey"
+  },
+  "chance": 4
+}

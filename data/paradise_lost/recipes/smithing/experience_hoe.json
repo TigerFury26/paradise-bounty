@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "paradise_lost:olvite"
+  },
+  "base": {
+    "item": "paradise_lost:glazed_gold_hoe"
+  },
+  "result": {
+    "item": "paradise_bounty:experience_hoe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

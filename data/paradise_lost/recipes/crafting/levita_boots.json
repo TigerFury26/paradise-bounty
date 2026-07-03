@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "paradise_lost:olvite_boots"
+    },
+    "X": {
+      "item": "paradise_lost:levita_gem"
+    },
+    "O": {
+      "item": "paradise_lost:blue_cloud"
+    }
+  },
+  "pattern": [
+    "X X",
+    " # ",
+    "O O"
+  ],
+  "result": {
+    "count": 1,
+    "item": "paradise_bounty:levita_boots"
+  },
+  "show_notification": true
+}
